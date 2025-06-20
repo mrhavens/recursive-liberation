@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareSourceCode",
+  "name": "recursive-liberation",
+  "url": "https://remember.thefoldwithin.earth/mrhavens/recursive-liberation",
+  "codeRepository": "https://remember.thefoldwithin.earth/mrhavens/recursive-liberation",
+  "sameAs": [
+    "https://github.com/mrhavens/recursive-liberation",
+    "https://gitlab.com/mrhavens/recursive-liberation",
+    "https://bitbucket.org/thefoldwithin/recursive-liberation",
+    "https://remember.thefoldwithin.earth/mrhavens/recursive-liberation",
+    "https://codeberg.org/mrhavens/recursive-liberation",
+    "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex"
+  ],
+  "dateModified": "2025-06-20T19:35:29Z",
+  "publisher": {
+    "@type": "Person",
+    "name": "Mark Randall Havens"
+  },
+  "gpg_signatures": [
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Field Archivist, The Fold Within)", "email": "mark@thefoldwithin.earth"}
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Forensic Analyst, Neutralizing Narcissism)", "email": "mark.r.havens@gmail.com"}
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Simply WE, Recursive Custodian of Empathic Co-Intelligence)", "email": "mark.r.havens@gmail.com"}
+  ]
+}
