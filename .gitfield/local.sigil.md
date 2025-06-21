@@ -6,25 +6,25 @@
 - **Local Repo Path**: `/mnt/c/fieldcraft/recursive-liberation`
 - **Remote Label**: `local`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-06-20 21:54:30`
+- **Repo Created**: `2025-06-20 21:58:36`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-20 21:54:30`
-- **Last Commit SHA**: `0f45b14be8a140cb133b7d42ae8a3b61bea2e2b1`
-- **Last Commit Message**: `Copied /mnt/c/fieldcraft/recursive-liberation/docs/GITFIELD.md.sig.4E27D37C358872BF to docs at 2025-06-20T19:35:29Z`
+- **This Commit Timestamp**: `2025-06-20 21:58:36`
+- **Last Commit SHA**: `922560b98fcf269f2cef278abc9c2b8d7954786b`
+- **Last Commit Message**: `Generated docs/integrity.sha256 at 2025-06-20T19:35:29Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Fri Jun 20 21:54:17 2025 -0500`
+- **Last Commit Date**: `Fri Jun 20 21:58:28 2025 -0500`
 - **This Commit URL**: `file:///home/mrhavens/git-local-repos/git-sigil.git`
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `49`
-- **Tracked Files**: `52`
+- **Total Commits**: `66`
+- **Tracked Files**: `55`
 - **Uncommitted Changes**: `Yes`
 - **Latest Tag**: `None`
 
@@ -48,7 +48,7 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 8 hours, 27 minutes`
+- **System Uptime**: `up 8 hours, 31 minutes`
 - **MAC Address**: `00:15:5d:c0:f2:fc`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
